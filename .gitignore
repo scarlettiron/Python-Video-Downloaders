@@ -29,6 +29,9 @@ yarn-error.log*
 # Local Netlify folder
 .netlify
 
+# local vscode settings
+.vscode
+
 vendors/
 /vendors
 .vendors
